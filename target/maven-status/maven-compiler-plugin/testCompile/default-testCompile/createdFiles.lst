@@ -1,0 +1,10 @@
+com\adactinhotelapp\page\LoginPage.class
+com\adactinhotelapp\utils\UtilKit.class
+com\adactinhotelapp\testscripts\regression\validateLoginUsingPOM.class
+com\adactinhotelapp\utils\ExtentManager.class
+com\adactinhotelapp\page\RegisrartionPage.class
+com\adactinhotelapp\page\SearchHotelPage.class
+com\adactinhotelapp\base\BasePage.class
+com\adactinhotelapp\utils\Date.class
+com\adactinhotelapp\base\BaseTest.class
+com\adactinhotelapp\utils\MyTestNGListener.class
